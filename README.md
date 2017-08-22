@@ -53,19 +53,27 @@ Add
 ![キャプチャ06](./images/capture06.png)
 
 2.
-サインイン
+Commit
 
-アプリから Username と Password を入力しサインインして下さい。
+必要なファイルにチェックが付いていることを確認し、下部の Summary / Description へコメントを記入します。
 
-![キャプチャ02](./images/capture02.png)
+![キャプチャ02](./images/capture07.png)
 
+Commitボタンを押すと、"0 changed files" となり、Historyタブに今回の変更がログとして追加されています。
+
+![キャプチャ02](./images/capture08.png)
 
 3.
-リポジトリクローン
+Push
 
-サインイン後、案内した リポジトリURL を入力し、ローカルマシンにリポジトリをクローンして下さい。
+変更を反映したファイルをリポジトリにPushします。右上のPushボタンを押して下さい。
 
-![キャプチャ05](./images/capture05.png)
+![キャプチャ05](./images/capture09.png)
+
+リロード後、ボタンのテキストが Push から Fetch になっていれば完了です。リモートリポジトリも同時に更新されます。
+
+![キャプチャ05](./images/capture10.png)
+
 
 4.
 ディレクトリ作成
